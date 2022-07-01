@@ -1,0 +1,16 @@
+h1 {
+    color: #00699e;
+    }
+#spanId{
+    width:300px;
+    height:100px;
+    border:3px solid rgb(1, 92, 125);
+    border-radius:22px;
+    }
+#thirdDiv{background-color: coral;
+    }
+
+    body {
+        background-image: url("https://www.xtrafondos.com/wallpapers/resoluciones/19/casa-kame-de-dragon-ball_2560x1440_3963.jpg");
+        background-color: #cccccc;
+       }
